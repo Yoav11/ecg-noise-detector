@@ -43,7 +43,7 @@ INPUTS
 @ ecgType - ['clean' | 'noisy'], specifies which ecg to generate
 '''
 
-plot_ecg(ecg, fs=500, highlights=True, show=True):
+plot_ecg(ecg, fs=500, highlights=True, show=True)
 '''
 RETURNS 
 pyplot figure of filtered (and highlighted) ecg
