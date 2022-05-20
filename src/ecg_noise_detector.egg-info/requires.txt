@@ -1,0 +1,7 @@
+matplotlib
+numpy
+scipy
+joblib
+pandas
+py-ecg-detectors
+scikit-learn==1.0.1

@@ -1,0 +1,15 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/ecg_noise_detector/__init__.py
+src/ecg_noise_detector/noiseDetector.py
+src/ecg_noise_detector.egg-info/PKG-INFO
+src/ecg_noise_detector.egg-info/SOURCES.txt
+src/ecg_noise_detector.egg-info/dependency_links.txt
+src/ecg_noise_detector.egg-info/requires.txt
+src/ecg_noise_detector.egg-info/top_level.txt
+src/ecg_noise_detector/data/clean_ecg.csv
+src/ecg_noise_detector/data/model_20_05_21.joblib
+src/ecg_noise_detector/data/noisy_ecg.csv
